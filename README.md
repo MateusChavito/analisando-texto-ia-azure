@@ -18,8 +18,10 @@ Este projeto explora os serviços de IA do Azure para análise de texto, incluin
 
 ## 🌟 Resultados e Insights
 ### 📃 Prints do Processo
-*Insira aqui prints do Language Studio mostrando a análise das frases.*
-
+![alt text](Sentença1part1.png)
+![alt text](sentença1part2.png)
+![alt text](sentença1part3.png)
+![alt text](sentença1part4.png)
 ### 🔮 Principais Descobertas
 - O serviço de **extração de frases-chave** é útil para destacar os conceitos principais em um texto.
 - A **análise de sentimentos** permite classificar textos como positivos, neutros ou negativos.
