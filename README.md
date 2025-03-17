@@ -15,22 +15,17 @@ Este projeto explora os serviços de IA do Azure para análise de texto, incluin
 │   ├── sentences.txt   # Arquivo de entrada com frases para análise
 │── README.md          # Documentação do projeto
 ```
-
-## 🌟 Resultados e Insights
 ### 📃 Prints do Processo
 ![alt text](Sentença1part1.png)
 ![alt text](sentença1part2.png)
 ![alt text](sentença1part3.png)
 ![alt text](sentença1part4.png)
-### 🔮 Principais Descobertas
-- O serviço de **extração de frases-chave** é útil para destacar os conceitos principais em um texto.
-- A **análise de sentimentos** permite classificar textos como positivos, neutros ou negativos.
-- A **detecção de idioma** é eficiente para identificar a língua predominante em um documento.
-
-## 💡 Possibilidades de Expansão
-- Criar um script Python para consumir a API do Azure Cognitive Services automaticamente.
-- Implementar um chatbot que analisa sentimentos em tempo real.
-- Integrar a IA de linguagem com **bancos de dados** para gerar relatórios automáticos.
+## 🌟 Resultados e Insights
+- O processo foi meio complexo na criação da conta da azure e depois a configuração para poder utilizar a IA, pois
+acabou ocorrendo vários erros na assinatura, mas consegui depois de algumas alterações.
+- Achei a utilização da ferramenta excelente para pessoas que possuem lojas e produtos, essa detecção de sentimentos é uma
+forte ferramenta para conseguirem juntar dados e melhorar seus produtos, com um processo totalmente automatizado.
+- Acredito que um produto com uma breve evolução para detectar emoções através de imagens, é um passo além para infinitas possibilidades.
 
 ## 💪 Como Contribuir
 1. Fork este repositório
